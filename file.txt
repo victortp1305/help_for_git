@@ -1,1 +1,2 @@
-Um texto lindo aqui
+- git add
+- git commit -m " "
