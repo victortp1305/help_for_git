@@ -1,0 +1,10 @@
+git remote add origin (origem do repositório preparado no github para receber o repositório local)
+
+git push -u origin (commit que deseja enviar/ de preferencia envie a main)  para o envio do primeiro commit desse repositório
+
+
+depois pode usar apenas git push
+
+
+OBS: este repositório já deve estar ratreado pelo git local
+OBS: De preferênci mude o nome da sua branch "master" para "main" dessa forma: git branch -M main
